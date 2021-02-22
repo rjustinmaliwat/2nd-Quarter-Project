@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+  background-color: #222222;
+}
+.divmarq div{
+  background-color: #666666;
+  color: white;
+  font-size: 45px;
+  border: 5px solid black;
+}
+.Overview{
+  background-color: #666666;
+  color: white;
+  border: 5px solid black;
+}
+#img1{
+  width: 400px;
+  border: 5px solid black;
+}
+p{
+  font-size: 20px;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+}
+h3{
+  text-align: center;
+  font-size: 30px;
+}
+img{
+  width: 200px;
+  border: 5px solid black;
+}
+td{
+  padding: 5px;
+}
+</style>
+</head>
+<body>
+
+
+<div class="divmarq">
+<div id="div1">
+
+<h2>What is it Used for?</h2>
+</div>
+
+</div>
+<br>
+
+<div class="Overview">
+<div id="div2">
+<table>
+<tr>
+<td style="color:white"><p>The 2000s have seen the beginnings of the applications of nanotechnology in commercial products, although most applications are limited to the bulk use of passive nano-materials. Examples include titanium dioxide and in sunscreen, cosmetics and some food products; silver nano-particles in food packaging, clothing, disinfectants and household appliances such as Silver Nano; carbon nano-tubes for stain-resistant textiles; and cerium oxide as a fuel catalyst.</p></td>
+<td><img id="img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8bAEX6vzN6428ipm4hCUsEzm98CsCe2dWFg&usqp=CAU"></td>
+</tr>
+</table>
+</div>
+
+<h3>Nanomedicine</h3>
+<br>
+<table>
+<tr>
+<td><img src="https://images.theconversation.com/files/162310/original/image-20170324-4934-1axxk5x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop"></td>
+<td><p>is the medical application of nanotechnology. Nanomedicine ranges from the medical applications of nanomaterials and biological devices, to nanoelectronic biosensors, and even possible future applications of molecular nanotechnology such as biological machines. Current problems for nanomedicine involve understanding the issues related to toxicity and environmental impact of nanoscale materials (materials whose structure is on the scale of nanometers, i.e. billionths of a meter).</p></td>
+</tr>
+</table>
+<br>
+<h3>Nanoelectronics</h3>
+<table>
+<tr>
+<td>Nanoelectronics refers to the use of nanotechnology in electronic components. The term covers a diverse set of devices and materials, with the common characteristic that they are so small that inter-atomic interactions and quantum mechanical properties need to be studied extensively. Some of these candidates include: hybrid molecular/semiconductor electronics, one-dimensional nanotubes/nanowires (e.g. silicon nanowires or carbon nanotubes) or advanced molecular electronics.</td>
+<td><img src="https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_18333(1).jpg"></td>
+</tr>
+</table>
+<br>
+
+<div id="div3">
+<table style="width:100%">
+<tr>
+<td><a href="Cs_MALIWAT_CompSciWebpage1.html"><img src="https://contenthub-static.grammarly.com/blog/wp-content/uploads/2018/05/how-to-write-an-introduction-437x230.jpg"></a></td>
+<td><a href="Cs_MALIWAT_CompSciWebpage2.html"><img src="https://cdn.hswstatic.com/gif/nanotechnology-4.gif"></a></td>
+<td><a href="Cs_MALIWAT_CompSciWebpage3.html"><img src="https://www.nano.gov/sites/default/files/IBM%207%20nm%20chip%20wafer.jpg"></a></td>
+</tr>
+</table>
+</div>
+</div>
+
+</body>
+</html>

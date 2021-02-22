@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+  background-color: #222222;
+}
+.divmarq div{
+  background-color: #666666;
+  color: white;
+  font-size: 45px;
+  border: 5px solid black;
+}
+.Overview{
+  background-color: #666666;
+  color: white;
+  border: 5px solid black;
+}
+#img1{
+  width: 400px;
+  border: 5px solid black;
+}
+p{
+  font-size: 20px;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+}
+img{
+  width: 200px;
+  border: 5px solid black;
+}
+td{
+  padding: 5px;
+}
+</style>
+</head>
+<body>
+
+
+<div class="divmarq">
+<div id="div1">
+
+<marquee behavior="slide" direction="left" scrollamount="20" width="100%">An Introduction to Nanotechnology</marquee>
+</div>
+
+</div>
+<br>
+
+<div class="Overview">
+<div id="div2">
+<h2>Overview of Nanotechnology:</h2>
+<br>
+<table>
+<tr>
+<td style="color:white"><p>Nanotechnology involves the control, on a size range of some nanometers, of the structure of matter,  perceived by various people at different times as meaning anything from 0.1 nm (controlling the arrangement of individual atoms) to 100 nm or more (anything smaller than microtechnology).</p></td>
+<td><img id="img1" src="https://www.understandingnano.com/scale.jpg"></td>
+</tr>
+</table>
+</div>
+<br>
+<div id="div3">
+<table style="width:100%">
+<tr>
+<td><a href="Cs_MALIWAT_CompSciWebpage2.html"><img src="https://www.nano.gov/sites/default/files/IBM%207%20nm%20chip%20wafer.jpg"></a></td>
+<td><a href="Cs_MALIWAT_CompSciWebpage3.html"><img src="https://cdn.hswstatic.com/gif/nanotechnology-4.gif"></a></td>
+<td><a href="Cs_MALIWAT_CompSciWebpage4.html"><img src="https://www.civilserviceindia.com/subject/General-Studies/notes/images/Application-of-Nanotechnology.png"></a></td>
+</tr>
+</table>
+</div>
+</div>
+
+</body>
+</html>

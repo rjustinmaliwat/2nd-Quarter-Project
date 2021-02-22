@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+  background-color: #222222;
+}
+.divmarq div{
+  background-color: #666666;
+  color: white;
+  font-size: 45px;
+  border: 5px solid black;
+}
+.Overview{
+  background-color: #666666;
+  color: white;
+  border: 5px solid black;
+}
+#img1{
+  width: 400px;
+  border: 5px solid black;
+}
+p{
+  font-size: 20px;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+}
+h3{
+  text-align: center;
+  font-size: 30px;
+}
+img{
+  width: 200px;
+  border: 5px solid black;
+}
+td{
+  padding: 5px;
+}
+</style>
+</head>
+<body>
+
+
+<div class="divmarq">
+<div id="div1">
+
+<h2>How does it Work?</h2>
+</div>
+
+</div>
+<br>
+
+<div class="Overview">
+<div id="div2">
+<table>
+<tr>
+<td style="color:white"><p>Nanotechnologies involve the design, characterization, production, and application of nanoscale structures, devices, and systems that produces structures, devices, and systems with at least one novel/superior characteristic or property. </p></td>
+<td><img id="img1" src="https://cdn.hswstatic.com/gif/nanotechnology-5.gif"></td>
+</tr>
+</table>
+</div>
+
+<h3>Nanoparticles: The Building Blocks</h3>
+<br>
+<table>
+<tr>
+<td><img src="https://d1otjdv2bf0507.cloudfront.net/images/Article_Images/ImageForArticle_4620(1).jpg"></td>
+<td><p>Nanoparticles, which have been produced on an industrial scale for quite some time already, are used in a broad spectrum of applications and many products. So, what are nanoparticles? There is no simple answer. The diversity of synthetic (i.e. man-made) nanoparticles is considerable. They are distinct in their properties and applications. In addition to their size, synthetic nanoparticles vary in chemical composition, shape, surface characteristics and mode of production.</p></td>
+</tr>
+</table>
+<br>
+<h3>Nanotech: The future of advanced technology</h3>
+<table>
+<tr>
+<td>Basically, every aspect of our lives will be impacted. Faster computers, advanced pharmaceuticals, controlled drug delivery, biocompatible materials, nerve and tissue repair, crackproof surface coatings, better skin care and protection, more efficient catalysts, better and smaller sensors, even more efficient telecommunications, these are just some areas where nanomaterials will have a major impact.</td>
+<td><img src="https://euon.echa.europa.eu/documents/23168237/23192669/future_of_nanotechnology.jpg/a122b12f-134f-00de-7b3e-132beff59872?t=1496917119159"></td>
+</tr>
+</table>
+<br>
+
+<div id="div3">
+<table style="width:100%">
+<tr>
+<td><a href="Cs_MALIWAT_CompSciWebpage1.html"><img src="https://contenthub-static.grammarly.com/blog/wp-content/uploads/2018/05/how-to-write-an-introduction-437x230.jpg"></a></td>
+<td><a href="Cs_MALIWAT_CompSciWebpage2.html"><img src="https://www.nano.gov/sites/default/files/IBM%207%20nm%20chip%20wafer.jpg"></a></td>
+<td><a href="Cs_MALIWAT_CompSciWebpage4.html"><img src="https://www.civilserviceindia.com/subject/General-Studies/notes/images/Application-of-Nanotechnology.png"></a></td>
+</tr>
+</table>
+</div>
+</div>
+
+</body>
+</html>
